@@ -61,7 +61,7 @@
         </repository>
         <repository>
             <id>lapismc-repo</id>
-            <url>https://maven.lapismc.net/repository/maven/</url>
+            <url>https://maven.lapismc.net/releases/</url>
         </repository>
         <repository>
             <id>sonatype</id>
@@ -83,7 +83,7 @@
         <dependency>
             <groupId>net.lapismc</groupId>
             <artifactId>AFKPlus</artifactId>
-            <version>3.4.3</version>
+            <version>3.5.1</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
